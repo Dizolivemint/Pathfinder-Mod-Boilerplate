@@ -1,0 +1,10 @@
+{
+    "Id": "PathfinderMod",
+    "DisplayName": "Boilerplate Mod",
+    "Author": "username",
+    "Version": "1.0.0",
+    "ManagerVersion": "1.0.0",
+    "Requirements": ["SomeMod-1.0.0", "AnotherMod"],
+    "AssemblyName": "TestMod.dll",
+    "EntryMethod": "TestMod.Main.Load"
+  }
